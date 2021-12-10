@@ -12,5 +12,7 @@ class MainActivity2 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         bindingClass = ActivityMain2Binding.inflate(layoutInflater)
         setContentView(bindingClass.root)
+
+        supportActionBar?.hide()
     }
 }
