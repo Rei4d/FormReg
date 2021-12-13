@@ -138,7 +138,7 @@
             android:layout_width="185dp"
             android:layout_height="43dp"
             android:layout_marginTop="220dp"
-            android:text="Перечень специальностей/ проффесий"
+            android:text="Перечень специальностей/ профессий"
             android:textColor="#B7C7D1"
             app:layout_constraintEnd_toEndOf="@+id/textView6"
             app:layout_constraintHorizontal_bias="0.0"
